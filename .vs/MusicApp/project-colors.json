@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b57d060b-a843-403e-81b3-793cf2d11fcc": {
+      "ProjectGuid": "b57d060b-a843-403e-81b3-793cf2d11fcc",
+      "DisplayName": "MusicApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

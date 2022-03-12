@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="MusicApp.Controls.PlaylistButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MusicApp.Controls"
+             mc:Ignorable="d"
+             MouseEnter="PlaylistButton_MouseEnter"
+             MouseLeave="PlaylistButton_MouseLeave"
+             MouseDown="PlaylistButton_MouseDown"
+             d:DesignHeight="150" d:DesignWidth="500">
+    
+    <Border Name="ButtonBorder" BorderBrush="Gray" BorderThickness="2">
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Button</TextBlock>
+    </Border>
+</UserControl>
